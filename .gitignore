@@ -1,0 +1,10 @@
+# compiled output
+/lib
+/node_modules
+
+# IDE - VSCode
+.vscode/*
+.env
+
+# csv file
+*.csv
